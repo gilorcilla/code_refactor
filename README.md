@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Code Refactor
 
 User Story
@@ -12,7 +11,6 @@ Installation
 Built With
 
 Test
-=======
-# code_refactor
-Code Refactor - Horiseon Project
->>>>>>> f20e651fbfe46309e6662105524afdaa09c1c454
+
+License
+![License icon](./assets/images/license.png)
