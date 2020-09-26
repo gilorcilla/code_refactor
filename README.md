@@ -12,5 +12,4 @@ Built With
 
 Test
 
-License
-![License icon](./assets/images/license.png)
+![License icon](./assets/images/license.png) [MIT License](https://github.com/gilorcilla/code_refactor/blob/master/LICENSE)
