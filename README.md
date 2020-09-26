@@ -11,6 +11,3 @@ Installation
 Built With
 
 Test
-
-License
-MIT License
