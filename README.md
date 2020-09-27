@@ -2,14 +2,16 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## User Story
+### User Story
 
-## Table of Contents
+##### As a bootcamp participant, this first submittal is to improve and implement a given code by refactoring so it meets and follows accessability standards, utilizes semantic HTML, and enhance code readability to make the site optimized for search engines.
 
-## Description
+### Table of Contents
 
-## Installation
+### Description
 
-## Built With
+### Installation
 
-## Test
+### Built With
+
+### Test
