@@ -8,11 +8,11 @@
 
 ### Table of Contents
 
-    ##### Description
-    * Installation
-    * Test
-    * Built With
-    * License
+*  Description
+*  Installation
+*  Test
+*  Built With
+*  License
 
 ### Description
 
