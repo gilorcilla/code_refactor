@@ -13,7 +13,7 @@ to improve and implement a given code by refactoring so it meets and follows acc
 - [Installation](https://github.com/gilorcilla/code_refactor#installation)
 - [Test](https://github.com/gilorcilla/code_refactor#test)
 - [Built With](https://github.com/gilorcilla/code_refactor#built-with)
-- License
+- [License](https://github.com/gilorcilla/code_refactor#license)
 
 ### Description
 
