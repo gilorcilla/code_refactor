@@ -4,15 +4,16 @@
 
 ### User Story
 
-##### As a bootcamp participant, this first submittal is to improve and implement a given code by refactoring so it meets and follows accessability standards, utilizes semantic HTML, and enhance code readability to make the site optimized for search engines.
+As a bootcamp participant, this first submittal is
+to improve and implement a given code by refactoring so it meets and follows accessability standards, utilizes semantic HTML, and enhance code readability to make the site optimized for search engines.
 
 ### Table of Contents
 
-*  Description
-*  Installation
-*  Test
-*  Built With
-*  License
+- Description
+- Installation
+- Test
+- Built With
+- License
 
 ### Description
 
