@@ -2,14 +2,14 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-User Story
+## User Story
 
-Table of Contents
+## Table of Contents
 
-Description
+## Description
 
-Installation
+## Installation
 
-Built With
+## Built With
 
-Test
+## Test
