@@ -8,7 +8,7 @@
 
 ### Table of Contents
 
-    ##### - Description
+    * ##### Description
     * Installation
     * Test
     * Built With
